@@ -1,0 +1,1 @@
+Example using jquery and spring mvc.
